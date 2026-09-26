@@ -3,8 +3,8 @@
 Automatisch generiert von **cs2-dumper** auf jedem lokalen Dump.
 
 - **Build:** 14185
-- **Dump-Zeitpunkt:** 2026-09-26T21:28:18.698687400+00:00
-- Erzeugt am: 26.09.2026 23:28
+- **Dump-Zeitpunkt:** 2026-09-26T21:39:14.345219500+00:00
+- Erzeugt am: 26.09.2026 23:39
 
 ## Was ist drin?
 
